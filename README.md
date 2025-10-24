@@ -28,11 +28,11 @@ I’m passionate about backend development and building robust web applications 
 A full-stack web application built with Java Servlet, JSP, MySQL, HTML, and CSS, deployed on Apache Tomcat.
 
 **Features:**
-- Employee registration: Collects ID, Name, Email, Password, Gender, and City
-- Data stored securely in MySQL database
-- Login authentication: Validates email & password against SQL data
-- User dashboard: Displays all employee details with an attractive UI
-- Error handling: Pop-up for invalid login attempts
+- Employee registration: Collects ID, Name, Email, Password, Gender, and City.
+- Data stored securely in MySQL database.
+- Login authentication: Validates email & password against SQL data.
+- User dashboard: Displays the employee details which employee has given during sign-up with an attractive UI.
+- Error handling: Pop-up for invalid email or Password.
 
 [🔗 View Project Repository](#) <!-- Replace # with your project repo link when ready! -->
 
