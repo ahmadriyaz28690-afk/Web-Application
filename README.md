@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ahmad Riyaz
+# 👋 Hi, I'm Riyaz Ahmad
 
 🎓 **Bachelor's in Information Technology**  
 💻 **Aspiring Java Backend Developer (Fresher)**  
